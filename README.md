@@ -1,1 +1,1 @@
-# CricScore---Cricket-Live-Score-Extension
+# CricScore - Cricket Live Score Extension
