@@ -1,0 +1,11 @@
+{
+    "name": "CricScore",
+    "version": "1.0.0",
+    "description" : " Provides Cricket score",
+    "manifest_version": 3,
+    "author": "Deepak Bhardwaj",
+    "action" : {
+        "default_popup": "index.html",
+        "default_title" :"CricScore"
+    }
+}
